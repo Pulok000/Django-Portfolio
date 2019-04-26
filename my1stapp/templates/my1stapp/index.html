@@ -1,0 +1,44 @@
+{% extends "my1stapp/base.html" %}
+
+{% block content %}
+    <div class="container">
+        <div class="row" style="margin-top: 100px">
+
+            <div class="col-sm-6">
+                <form class="form-inline" action="{% url 'home' %}" method="post">
+                    {% csrf_token %}
+                    <label class="sr-only" for="inlineFormInputName2">First name</label>
+                    <input type="text" class="form-control mb-2 mr-sm-2" id="inlineFormInputName2"
+                           placeholder="First name" name="fname">
+
+                    <label class="sr-only" for="inlineFormInputGroupUsername2">Username</label>
+
+                    <label class="sr-only" for="inlineFormInputName2">Last name</label>
+                    <input type="text" class="form-control mb-2 mr-sm-2" id="inlineFormInputName2"
+                           placeholder="Last name" name="lname">
+
+
+                    <button type="submit" class="btn btn-secondary mb-2">Make joke about me</button>
+                </form>
+
+
+            </div>
+            <div class="col-sm-6">
+                <div class="card" style="width: 40rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">Pulok Mia</h5>
+
+                        <p class="card-text">
+                            {{joker}}
+                            </p>
+                        <a href="{% url 'portfolio' %}" class="card-link">Check out my Portfolio</a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+{% endblock %}
