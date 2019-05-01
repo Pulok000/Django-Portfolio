@@ -11,7 +11,7 @@ class student(models.Model):
 
 class contact(models.Model):
 
-    email=models.EmailField(max_length=255)
+    email=models.EmailField(max_length=258)
     subject=models.CharField(max_length=100)
     message=models.TextField()
 
