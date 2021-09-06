@@ -1,7 +1,7 @@
 # Django-Portfolio
 This was my first web app  project which was completed back in January 2019.
 I was learning Django framework and created a simple portfolio site. 
-The main aim was
+The main aim was  
 -->create a simple web app  
 -->use API to collect random jokes  
 -->take user responses such as messages and basic personal Data  
