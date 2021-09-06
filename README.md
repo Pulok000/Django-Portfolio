@@ -8,10 +8,11 @@ The main aim was
 -->Add username in Jokes  
 -->host the web app on Heroku  
   
-Overview:
-![rsz_screenshot_2021-09-06_at_19-03-15_pokas_potfolio](https://user-images.githubusercontent.com/30721770/132224295-32524046-249e-44b6-97a1-169adc4da678.png)
-![Uploading rsz_screenshot_2021-09-06_at_19-03-33_pokas_potfolio.png…]()
-![Uploading rsz_screenshot_2021-09-06_at_19-03-49_pokas_potfolio.png…]()
+Overview:  
+![rsz_screenshot_2021-09-06_at_19-03-15_pokas_potfolio](https://user-images.githubusercontent.com/30721770/132224537-d1676994-97b1-4ce2-a49c-15088a2c1e11.png)
+![rsz_screenshot_2021-09-06_at_19-03-33_pokas_potfolio](https://user-images.githubusercontent.com/30721770/132224557-304937d5-2bf1-452b-be34-448f02c1a3c8.png)
+![rsz_screenshot_2021-09-06_at_19-03-49_pokas_potfolio](https://user-images.githubusercontent.com/30721770/132224586-8883074a-8750-44b8-9d5c-9e3873c54430.png)
+
 
 
 
