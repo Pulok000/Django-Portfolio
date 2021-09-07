@@ -14,10 +14,8 @@ This was my first web app  project which was completed back in January 2019.I wa
 Overview:  
 <p align="center">
   <a href="https://github.com/Pulok000/Django-Portfolio">
-    <img src="https://arifszn.github.io/reddit-image-fetcher/img/preview.gif" width="60%" alt="Preview"/>
+    <img src="https://imgur.com/a/AO5BXwL" width="60%" alt="Preview"/>
   </a>
-  <br/>
-  <a href="#arifszn"><img src="https://arifszn.github.io/assets/img/drop-shadow.png" width="60%" alt="Shadow"/></a>
 </p>
 Site Link:https://pulokahmed.herokuapp.com/
 
