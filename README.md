@@ -17,7 +17,7 @@ Overview:
     <img src="https://git.io/Junj2" width="60%" alt="Preview"/>
   </a>
   <br/>
-  <a href="#arifszn"><img src="https://arifszn.github.io/assets/img/drop-shadow.png" width="60%" alt="Shadow"/></a>
+  <a href="#arifszn"><img src="https://git.io/Juceq" width="60%" alt="Shadow"/></a>
 </p>
 
 ## Thank You
