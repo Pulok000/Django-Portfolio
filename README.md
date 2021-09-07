@@ -1,6 +1,6 @@
 # Django-Portfolio
 
-This was my first web app  project which was completed back in January 2019.I was learning Django framework and created a simple portfolio site.The focus was to
+This was my first web app  project which was completed back in January 2019.I was learning Django framework and created a simple portfolio site.The main focus was to
 
 - Create a simple web app
 - Use API to collect random jokes
