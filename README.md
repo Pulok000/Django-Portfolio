@@ -1,4 +1,13 @@
 # Django-Portfolio
+
+Reddit Image Fetcher is a JavaScript package that can fetch bulk images, memes or wallpapers. Supports node, react and other any JavaScript language.
+
+- Create a simple web app
+- Use API to collect random jokes
+- Take user responses such as messages and basic personal Data
+- Generate custom jokes using user's data
+- Host the site live on Heroku <small><code><20KB</code></small>
+  
 This was my first web app  project which was completed back in January 2019.
 I was learning Django framework and created a simple portfolio site. 
 The main aim was to  
