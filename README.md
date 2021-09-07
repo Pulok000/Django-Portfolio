@@ -1,4 +1,5 @@
 <h1 align="center">Django Portfolio Site</h1>
+<p align="center"><a href="https://github.com/Pulok000/Django-Portfolio">https://pulokahmed.herokuapp.com/</a></p>
 
 This was my first web app  project which was completed back in January 2019.I was learning Django framework and created a simple portfolio site.The main focus was to
 
@@ -10,7 +11,6 @@ This was my first web app  project which was completed back in January 2019.I wa
   
 
  
-  <p align="center"><a href="https://github.com/Pulok000/Django-Portfolio">https://pulokahmed.herokuapp.com/</a></p>
 Overview:  
 ![rsz_screenshot_2021-09-06_at_19-03-15_pokas_potfolio](https://user-images.githubusercontent.com/30721770/132224537-d1676994-97b1-4ce2-a49c-15088a2c1e11.png)
 ![rsz_screenshot_2021-09-06_at_19-03-33_pokas_potfolio](https://user-images.githubusercontent.com/30721770/132224557-304937d5-2bf1-452b-be34-448f02c1a3c8.png)
