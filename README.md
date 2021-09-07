@@ -13,10 +13,11 @@ This was my first web app  project which was completed back in January 2019.I wa
  
 Overview:  
 <p align="center">
-  
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/30721770/132342345-7499dffe-624c-4bbd-91cf-47cdcec029d3.gif)
-
-
+  <a href="https://github.com/Pulok000/Django-Portfolio">
+    <img src="https://git.io/Junj2" width="60%" alt="Preview"/>
+  </a>
+  <br/>
+  <a href="#arifszn"><img src="https://arifszn.github.io/assets/img/drop-shadow.png" width="60%" alt="Shadow"/></a>
 </p>
 
 ## Thank You
