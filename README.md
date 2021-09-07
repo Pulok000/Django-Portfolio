@@ -1,7 +1,7 @@
 # Django-Portfolio
 This was my first web app  project which was completed back in January 2019.
 I was learning Django framework and created a simple portfolio site. 
-The main aim was  
+The main aim was to  
 -->create a simple web app  
 -->use API to collect random jokes  
 -->take user responses such as messages and basic personal Data  
@@ -13,7 +13,9 @@ Overview:
 ![rsz_screenshot_2021-09-06_at_19-03-33_pokas_potfolio](https://user-images.githubusercontent.com/30721770/132224557-304937d5-2bf1-452b-be34-448f02c1a3c8.png)
 ![rsz_screenshot_2021-09-06_at_19-03-49_pokas_potfolio](https://user-images.githubusercontent.com/30721770/132224586-8883074a-8750-44b8-9d5c-9e3873c54430.png)
 
+## Thank You
 
+[![Stargazers repo roster for @Pulok000/Django-Portfolio](https://reporoster.com/stars/Pulok000/reddit-image-fetcher)](https://github.com/Pulok000/reddit-image-fetcher/stargazers)
 
 
 Site Link:https://pulokahmed.herokuapp.com/
