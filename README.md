@@ -13,7 +13,9 @@ This was my first web app  project which was completed back in January 2019.I wa
  
 Overview:  
 <p align="center">
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/30721770/132342143-831465ef-93ef-4a4a-a2b6-5a0c7b5e65c0.gif)
+  
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/30721770/132342345-7499dffe-624c-4bbd-91cf-47cdcec029d3.gif)
+
 
 </p>
 Site Link:https://pulokahmed.herokuapp.com/
