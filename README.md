@@ -1,6 +1,4 @@
-<p align="center">
- #Django-Portfolio
-</p>
+#Django-Portfolio
 
 <p align="center">
     <a href="https://pulokahmed.herokuapp.com/" target="_blank"> https://pulokahmed.herokuapp.com/</a>
