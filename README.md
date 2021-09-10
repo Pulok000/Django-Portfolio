@@ -1,3 +1,11 @@
+# Django-Portfolio
+<p align="center">
+    <a href="https://github.com/Pulok000/Django-Portfolio" target="_blank">
+
+    </a>
+</p>
+
+
 This was my first web app project which was completed back in January 2019. I was learning the Django framework and created a simple portfolio site. The main focus was to
 
 - Create a simple web app
