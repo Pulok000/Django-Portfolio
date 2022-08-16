@@ -6,13 +6,13 @@
 </p>
 
 
-This was my first web app project which was completed back in January 2019. I was learning the Django framework and created a simple portfolio site. The main focus was to
+The portfolio is Dynamic, and the user /admin can log into the Django admin panel to change personal information. It generates random jokes using user data, collected from the visitors.
 
-- Create a simple web app
-- Use API to collect random jokes
-- Take user responses such as messages and basic personal Data
-- Generate custom jokes using user's data
-- Host the site live on Heroku
+frontend: Html, CSS, Javascript, Bootstrap
+Backend: python, Django
+Database: SQLite
+Hosting: Heroku 
+Api: Json
   
  
 Overview:  
