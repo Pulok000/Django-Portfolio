@@ -9,10 +9,15 @@
 The portfolio is Dynamic, and the user /admin can log into the Django admin panel to change personal information. It generates random jokes using user data, collected from the visitors.
 
 -frontend: Html, CSS, Javascript, Bootstrap
+
 -Backend: python, Django
+
 -Database: SQLite
+
 -Hosting: Heroku 
+
 -Api: Json
+
   
  
 Overview:  
